@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\приложеньеце\x64\Debug\приложеньеце.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\приложеньеце\x64\Debug\приложеньеце.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\приложеньеце\x64\Debug\приложеньеце.MyForm.resources
+C:\Users\User\source\repos\приложеньеце\x64\Debug\приложеньеце.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\приложеньеце\x64\Debug\приложеньеце.exe
+C:\Users\User\source\repos\приложеньеце\x64\Debug\приложеньеце.Input.resources
